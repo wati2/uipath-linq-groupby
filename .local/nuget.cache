@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KEEz6wkYFVQS9PErf8wQlcBqvq3RbduCRsvMo6C7tywH5nmpFg5sWWw5zp0SDGvT5bggeKuXC6TIkmFJvas7Mw==",
+  "dgSpecHash": "D8+kHXIFOXYB4O7OZD2+s7Z522V1KR+cG4uXYcmO6YyqnqcMPoDGUcaKT4qy3oDrt9WpQc9VFD/M1xNmZqxeuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\김영석\\Documents\\UiPath\\TEST Datatable\\.local\\",
+  "projectFilePath": "C:\\Users\\김영석\\Documents\\UiPath\\UiPath-LinQ\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\김영석\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\김영석\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
@@ -75,7 +75,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\김영석\\Documents\\UiPath\\TEST Datatable\\.local",
+      "filePath": "C:\\Users\\김영석\\Documents\\UiPath\\UiPath-LinQ\\.local",
       "message": "Microsoft.Extensions.Primitives 3.1.6 depends on System.Memory (>= 4.5.2) but System.Memory 4.5.2 was not found. An approximate best match of System.Memory 4.5.3 was resolved.",
       "libraryId": "System.Memory",
       "targetGraphs": [

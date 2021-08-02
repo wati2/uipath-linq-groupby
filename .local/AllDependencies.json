@@ -5022,11 +5022,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "TEST Datatable",
-      "projectName": "TEST Datatable",
-      "projectPath": "C:\\Users\\김영석\\Documents\\UiPath\\TEST Datatable\\.local",
+      "projectUniqueName": "LinQ Test 21.4.4",
+      "projectName": "LinQ Test 21.4.4",
+      "projectPath": "C:\\Users\\김영석\\Documents\\UiPath\\UiPath-LinQ\\.local",
       "packagesPath": "C:\\Users\\김영석\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\김영석\\Documents\\UiPath\\TEST Datatable\\.local"
+      "outputPath": "C:\\Users\\김영석\\Documents\\UiPath\\UiPath-LinQ\\.local"
     },
     "frameworks": {
       "net461": {
