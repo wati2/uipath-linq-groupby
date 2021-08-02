@@ -1,4 +1,4 @@
-# UiPath-LinQ
+# uipath-linq-groupby
 
 
 LinQ Test 기록/활용 목적 Repository
