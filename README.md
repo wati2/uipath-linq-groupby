@@ -1,4 +1,7 @@
-# uipath-linq-groupby
+# uipath-linq
+
+
+### Group By
 
 LinQ Test 기록/활용 목적 Repository
 
@@ -15,4 +18,5 @@ LinQ Test 기록/활용 목적 Repository
 
 
 ### Let Usage
+
 (From i in ExtractDataTable.AsEnumerable Let n = CInt(i.item(0)) Where n > 0 Select i)
